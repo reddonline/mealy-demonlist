@@ -1820,6 +1820,20 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
+
+      ],
+      "name": "poocu4ever",
+      "author": "Lisp [MrOozer]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=J8N204M6l_w",
+      "key": 71
+    },
+    /*=================================================================================*/
+    {
+      "vids": [
         {
           "user": "PersonHuman42",
           "link": "https://www.youtube.com/watch?v=E1EB8I0u4gM",
@@ -1864,7 +1878,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=9AkPotfkSwk",
-      "key": 71
+      "key": 72
     },
     /*=================================================================================*/
     {
@@ -1907,7 +1921,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=qS4hRB36j7I",
-      "key": 72
+      "key": 73
     },
     /*=================================================================================*/
               {
@@ -1962,7 +1976,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=G0J1QTXrZSY",
-      "key": 73
+      "key": 74
     },
     /*=================================================================================*/
                         {
@@ -1987,7 +2001,86 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=FAIUMFlbL-E",
-      "key": 74
+      "key": 75
+    },
+    /*=================================================================================*/
+      {
+      "vids": [
+        {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=S9e1wX_YFZ8",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=lf3VcHzDktc",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=_pVeCLyvApk",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "LF",
+          "link": "https://www.youtube.com/watch?v=DG9zbosSq2A",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Wasureta",
+      "author": "Crazen [redd]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=RL6deTWNs7w",
+      "key": 76
+    },
+    /*=================================================================================*/
+        {
+      "vids": [
+
+      ],
+      "name": "Sink",
+      "author": "Dorami [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "key": 77
+    },
+    /*=================================================================================*/
+        {
+      "vids": [
+
+      ],
+      "name": "Golden Club",
+      "author": "Dorami [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "key": 78
+    },
+    /*=================================================================================*/
+        {
+      "vids": [
+
+      ],
+      "name": "Loochiverse",
+      "author": "Dorami [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "key": 79
     },
     /*=================================================================================*/
       {
@@ -2036,7 +2129,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=UCmsILi3oG4",
-      "key": 75
+      "key": 80
     },
     /*=================================================================================*/
 
