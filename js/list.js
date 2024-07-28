@@ -1229,6 +1229,26 @@ const d = {
     {
       "vids": [
         {
+          "user": "Dalend",
+          "link": "https://www.youtube.com/watch?v=8TdEjgNQZjs&ab_channel=Dalend",
+          "percent": 100,
+          "hz": ""
+        },
+
+      ],
+      "name": "RANDOM ACCESS MEMORY",
+      "author": "Acute144 [Tyson]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=kajpfbAzppY",
+      "key": 50
+    },
+    /*=================================================================================*/
+    {
+      "vids": [
+        {
           "user": "Tyson",
           "link": "https://www.youtube.com/watch?v=RvJV9pgAaC4",
           "percent": 100,
@@ -1260,7 +1280,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=WCzUY-IEK2M",
-      "key": 50
+      "key": 51
     },
     /*=================================================================================*/
     {
@@ -1274,7 +1294,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=0tLsYta-mDY",
-      "key": 51
+      "key": 52
     },
     /*=================================================================================*/
     {
@@ -1288,7 +1308,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CHcbiBvGKXY",
-      "key": 52
+      "key": 53
     },
     /*=================================================================================*/
     {
@@ -1313,7 +1333,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=YG3EhWlBaoI",
-      "key": 53
+      "key": 54
     },
     /*=================================================================================*/
     {
@@ -1344,7 +1364,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CdmeQC7r770",
-      "key": 54
+      "key": 55
     },
     /*=================================================================================*/
     {
@@ -1387,7 +1407,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=ViXApzuhsX8",
-      "key": 55
+      "key": 56
     },
     /*=================================================================================*/
           {
@@ -1430,7 +1450,7 @@ const d = {
             "pass": "67993",
             "percentToQualify": 1,
             "verificationVid": "https://www.youtube.com/watch?v=zq8KNTzhUUE",
-            "key": 55
+            "key": 57
           },
           /*=================================================================================*/
 
