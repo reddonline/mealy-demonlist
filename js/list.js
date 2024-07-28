@@ -900,7 +900,7 @@ const d = {
           "link": "https://www.youtube.com/watch?v=XpTBSU6UeUo",
           "percent": 100,
           "hz": ""
-        }
+        },
         {
           "user": "Zombay",
           "link": "https://www.youtube.com/watch?v=SSaDjIQbfR8",
@@ -1801,20 +1801,7 @@ const d = {
       "key": 69
     },
     /*=================================================================================*/
-    {
-      "vids": [
 
-      ],
-      "name": "The Yandere",
-      "author": "Dorami [Multiverse]",
-      "more": "none",
-      "id": 78376395,
-      "pass": "67993",
-      "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
-      "key": 70
-    },
-    /*=================================================================================*/
 
 
   ],
