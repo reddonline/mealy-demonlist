@@ -893,6 +893,31 @@ const d = {
       "key": 37
     },
     /*=================================================================================*/
+        {
+      "vids": [
+        {
+          "user": "SomeoneNamedToby",
+          "link": "https://www.youtube.com/watch?v=XpTBSU6UeUo",
+          "percent": 100,
+          "hz": ""
+        }
+        {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=SSaDjIQbfR8",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "The Rupture",
+      "author": "Ka1ns [PersonHuman42]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://youtu.be/D-vmvR_Y9NU",
+      "key": 38
+    },
+    /*=================================================================================*/
     {
       "vids": [
 
@@ -904,7 +929,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=SIYC6UC0AjQ",
-      "key": 38
+      "key": 39
     },
     /*=================================================================================*/
 
@@ -919,7 +944,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=IiuaD_mO9cs",
-      "key": 39
+      "key": 40
     },
     /*=================================================================================*/
     {
@@ -945,7 +970,7 @@ const d = {
       "pass": "Not copyable",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=1JJ0o5JRbVc",
-      "key": 40
+      "key": 41
     },
     /*=================================================================================*/
     {
@@ -959,7 +984,7 @@ const d = {
       "pass": "Not copyable",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=c6WIT2Iqs_k",
-      "key": 41
+      "key": 42
     },
     /*=================================================================================*/
     {
@@ -1008,7 +1033,7 @@ const d = {
       "pass": "Free to copy",
       "percentToQualify": 1,
       "verificationVid": "https://youtu.be/uQBx8vk8Yi8",
-      "key": 42
+      "key": 43
     },
     /*=================================================================================*/
     {
@@ -1051,7 +1076,7 @@ const d = {
       "pass": "Free to Copy",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=Rr3jy48rsCs",
-      "key": 43
+      "key": 44
     },
     /*=================================================================================*/
     {
@@ -1101,7 +1126,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=IiuaD_mO9cs",
-      "key": 44
+      "key": 45
     },
     /*=================================================================================*/
     {
@@ -1128,7 +1153,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CigjGkX2s7I",
-      "key": 45
+      "key": 46
     },
     /*=================================================================================*/
     {
@@ -1173,7 +1198,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=oGusCmC6BHA",
-      "key": 46
+      "key": 47
     },
     /*=================================================================================*/
     {
@@ -1336,6 +1361,20 @@ const d = {
       "key": 54
     },
     /*=================================================================================*/
+       {
+      "vids": [
+
+      ],
+      "name": "ConTroller",
+      "author": "DreamZone [Tyson]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=cME5ux2hi2I",
+      "key": 55
+    },
+    /*=================================================================================*/
     {
       "vids": [
         {
@@ -1364,7 +1403,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CdmeQC7r770",
-      "key": 55
+      "key": 56
     },
     /*=================================================================================*/
     {
@@ -1407,7 +1446,26 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=ViXApzuhsX8",
-      "key": 56
+      "key": 57
+    },
+    /*=================================================================================*/
+     {
+      "vids": [
+ {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=DGMiJ61ctps",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Shutdown",
+      "author": "Jghost217 [yesimhairy]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://youtu.be/QQGFk9Szs8E",
+      "key": 58
     },
     /*=================================================================================*/
           {
@@ -1450,9 +1508,314 @@ const d = {
             "pass": "67993",
             "percentToQualify": 1,
             "verificationVid": "https://www.youtube.com/watch?v=zq8KNTzhUUE",
-            "key": 57
+            "key": 59
           },
           /*=================================================================================*/
+            {
+            "vids": [
+              {
+                "user": "MrOozer",
+                "link": "https://www.youtube.com/watch?v=J89ktsJyOvM",
+                "percent": 100,
+                "hz": ""
+              },
+              {
+                "user": "Multiverse",
+                "link": "https://www.youtube.com/watch?v=8JhCU5vtmqo",
+                "percent": 100,
+                "hz": ""
+              },
+              {
+                "user": "redd",
+                "link": "",
+                "percent": 57,
+                "hz": ""
+              },
+            ],
+            "name": "Congregation",
+            "author": "Presta [PersonHuman42]",
+            "more": "none",
+            "id": 78376395,
+            "pass": "67993",
+            "percentToQualify": 1,
+            "verificationVid": "https://youtu.be/UPZDDdk9NAA",
+            "key": 60
+          },
+          /*=================================================================================*/
+         {
+      "vids": [
+ {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=3oWmIz9GbtU",
+          "percent": 100,
+          "hz": ""
+        },
+         {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=rg4RvwceIio",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=E6OXk580Z2Y",
+          "percent": 100,
+          "hz": ""
+        },
+         {
+          "user": "LF",
+          "link": "https://www.youtube.com/watch?v=1LymLOqeneg",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=FBK20eHS__Q",
+          "percent": 100,
+          "hz": ""
+        },
+        
+      ],
+      "name": "Aquatic Auroras",
+      "author": "Endlevel [Zombay]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=5X3lqCxaznE",
+      "key": 61
+    },
+    /*=================================================================================*/
+    {
+      "vids": [
+ {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=W95z9S-ZybY",
+          "percent": 100,
+          "hz": ""
+        },
+   {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=Ryu_URHUvfo",
+          "percent": 100,
+          "hz": ""
+        },
+     {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=dc50VmEZglE",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Hyper Paracosm",
+      "author": "ViruZ [PersonHuman42]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=z8VnZbupWuQ",
+      "key": 62
+    },
+    /*=================================================================================*/
+       {
+      "vids": [
+   {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=c_cEFdkwoJs",
+          "percent": 100,
+          "hz": ""
+        },
+     {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=neJtlVAQtPQ",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=5rFZ2e5ttKk",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Eternal Moment",
+      "author": "Rainstorm [Tyson]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=1NltMm4vJ-k",
+      "key": 63
+    },
+    /*=================================================================================*/
+                                                 {
+      "vids": [
+{
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=9eRz37xnJiA",
+          "percent": 100,
+          "hz": ""
+        },
+  {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=9eRz37xnJiA",
+          "percent": 100,
+          "hz": ""
+        },
+    {
+          "user": "Zombay",
+          "link": "",
+          "percent": 100,
+          "hz": ""
+        },
+      {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=2Ae-ojPsTdQ",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Omega",
+      "author": "MindCap [ooraizar]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=PIK9eQ9gZJo",
+      "key": 64
+    },
+    /*=================================================================================*/
+       {
+      "vids": [
+ {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=W95z9S-ZybY",
+          "percent": 100,
+          "hz": ""
+        },
+   {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=Ryu_URHUvfo",
+          "percent": 100,
+          "hz": ""
+        },
+     {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=dc50VmEZglE",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Hyper Paracosm",
+      "author": "ViruZ [PersonHuman42]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=z8VnZbupWuQ",
+      "key": 65
+    },
+    /*=================================================================================*/
+             {
+      "vids": [
+ {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=bzjI9LIivM0",
+          "percent": 100,
+          "hz": ""
+        },
+   {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=DnE8Oguh-u0",
+          "percent": 100,
+          "hz": ""
+        },
+     {
+          "user": "yesimhairy",
+          "link": "https://www.youtube.com/watch?v=WQo9kynV73g",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=OxtgNJ-uC8A",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=ouWAKBmLp6M",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Arctic Lights",
+      "author": "ViruZ [Zombay]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=vcw98f82LQU",
+      "key": 66
+    },
+    /*=================================================================================*/
+                      {
+      "vids": [
+
+      ],
+      "name": "Edge of the World",
+      "author": "i cant be bothered to check [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=CSMiPngo4uE",
+      "key": 67
+    },
+    /*=================================================================================*/
+                               {
+      "vids": [
+
+      ],
+      "name": "Molten Gear",
+      "author": "Knobbelboy [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=rRin8TdvE1o",
+      "key": 68
+    },
+    /*=================================================================================*/
+                                 {
+      "vids": [
+
+      ],
+      "name": "The Yandere",
+      "author": "Dorami [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "key": 69
+    },
+    /*=================================================================================*/
+    {
+      "vids": [
+
+      ],
+      "name": "The Yandere",
+      "author": "Dorami [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "key": 70
+    },
+    /*=================================================================================*/
+
 
   ],
   "version":
