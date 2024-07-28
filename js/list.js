@@ -388,21 +388,21 @@ const d = {
 
         {
           "user": "redd",
-          "link": "https://cdn.discordapp.com/attachments/944588480778997803/1265967642447970314/uh.png?ex=66a569fe&is=66a4187e&hm=278956ea5e1f3ee22794ff4f7f7c7a32e0bd9d4179ff5b67fe91f635804a0cf4&",
+          "link": "https://i.imgur.com/IOj75dc.png",
           "percent": 93,
           "hz": ""
         },
 
         {
           "user": "LF",
-          "link": "https://cdn.discordapp.com/attachments/944588480778997803/1262698643962597456/image.png?ex=66a56300&is=66a41180&hm=324ef2e4b6cf5408149fa0e585932a08a33f4cdcf91cf7718eeabfd3aa3c8310&",
+          "link": "https://i.imgur.com/lwa4B9x.png",
           "percent": 94,
           "hz": ""
         },
 
         {
           "user": "Zombay",
-          "link": "https://cdn.discordapp.com/attachments/944588480778997803/1266332374937899038/image.png?ex=66a56c2d&is=66a41aad&hm=5e001f971e84f4e969787eda2b4c96416c8b57086810f3fe84a795f5b5af9e14&",
+          "link": "https://i.imgur.com/kf4ia3H.png",
           "percent": 95,
           "hz": ""
         },
@@ -1033,13 +1033,13 @@ const d = {
         },
         {
           "user": "Multiverse",
-          "link": "https://cdn.discordapp.com/attachments/944588480778997803/1266327929017733231/DcX1AH-XkAItSP_.jpg?ex=66a610c9&is=66a4bf49&hm=b45769735a41173e64fa99745d7b8dad81fc867ac9177a64476b9f65f24ad8d1&",
+          "link": "https://i.imgur.com/9a0PqeE.jpeg",
           "percent": 100,
           "hz": ""
         },
         {
           "user": "ILOVEJOSH9000XXXX",
-          "link": "https://cdn.discordapp.com/attachments/944588480778997803/1261985415879983114/image.png?ex=66a61681&is=66a4c501&hm=17e78ff48e0a98097784fc6b9617a085dc5b7408f9b48c996e5fb34172383c1d&",
+          "link": "https://i.imgur.com/QQl5gOI.png",
           "percent": 94,
           "hz": ""
         },
