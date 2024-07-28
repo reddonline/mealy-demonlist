@@ -365,7 +365,12 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-
+{
+          "user": "KrNati",
+          "link": "https://www.youtube.com/watch?v=c6NjgVfKahY",
+          "percent": 16,
+          "hz": ""
+        },
       ],
       "name": "Kenos",
       "author": "Bianox [redd]",
@@ -1213,7 +1218,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=ro6eYOc31qk",
-      "key": 47
+      "key": 48
     },
     /*=================================================================================*/
     {
@@ -1228,7 +1233,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=6nBdw2RtstI",
-      "key": 48
+      "key": 49
     },
     /*=================================================================================*/
     {
@@ -1248,7 +1253,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://youtu.be/b7TVZlFT2Bo",
-      "key": 49
+      "key": 50
     },
     /*=================================================================================*/
     {
@@ -1268,7 +1273,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=kajpfbAzppY",
-      "key": 50
+      "key": 51
     },
     /*=================================================================================*/
     {
@@ -1305,7 +1310,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=WCzUY-IEK2M",
-      "key": 51
+      "key": 52
     },
     /*=================================================================================*/
     {
@@ -1319,7 +1324,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=0tLsYta-mDY",
-      "key": 52
+      "key": 53
     },
     /*=================================================================================*/
     {
@@ -1333,7 +1338,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CHcbiBvGKXY",
-      "key": 53
+      "key": 54
     },
     /*=================================================================================*/
     {
@@ -1358,7 +1363,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=YG3EhWlBaoI",
-      "key": 54
+      "key": 55
     },
     /*=================================================================================*/
        {
@@ -1372,7 +1377,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=cME5ux2hi2I",
-      "key": 55
+      "key": 56
     },
     /*=================================================================================*/
     {
@@ -1403,7 +1408,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CdmeQC7r770",
-      "key": 56
+      "key": 57
     },
     /*=================================================================================*/
     {
@@ -1446,7 +1451,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=ViXApzuhsX8",
-      "key": 57
+      "key": 58
     },
     /*=================================================================================*/
      {
@@ -1457,15 +1462,21 @@ const d = {
           "percent": 100,
           "hz": ""
         },
+ {
+          "user": "Christian1219",
+          "link": "https://www.youtube.com/watch?v=sJ5ooQhyAtE",
+          "percent": 100,
+          "hz": ""
+        },
       ],
       "name": "Shutdown",
-      "author": "Jghost217 [yesimhairy]",
+      "author": "OliSW [PersonHuman42]",
       "more": "none",
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://youtu.be/QQGFk9Szs8E",
-      "key": 58
+      "key": 59
     },
     /*=================================================================================*/
           {
@@ -1508,11 +1519,17 @@ const d = {
             "pass": "67993",
             "percentToQualify": 1,
             "verificationVid": "https://www.youtube.com/watch?v=zq8KNTzhUUE",
-            "key": 59
+            "key": 60
           },
           /*=================================================================================*/
             {
             "vids": [
+              {
+                "user": "Christian1219",
+                "link": "https://www.youtube.com/watch?v=MRFQnmoqPYM",
+                "percent": 100,
+                "hz": ""
+              },
               {
                 "user": "MrOozer",
                 "link": "https://www.youtube.com/watch?v=J89ktsJyOvM",
@@ -1539,7 +1556,7 @@ const d = {
             "pass": "67993",
             "percentToQualify": 1,
             "verificationVid": "https://youtu.be/UPZDDdk9NAA",
-            "key": 60
+            "key": 61
           },
           /*=================================================================================*/
          {
@@ -1583,7 +1600,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=5X3lqCxaznE",
-      "key": 61
+      "key": 62
     },
     /*=================================================================================*/
     {
@@ -1614,7 +1631,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=z8VnZbupWuQ",
-      "key": 62
+      "key": 63
     },
     /*=================================================================================*/
        {
@@ -1645,7 +1662,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=1NltMm4vJ-k",
-      "key": 63
+      "key": 64
     },
     /*=================================================================================*/
                                                  {
@@ -1682,7 +1699,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=PIK9eQ9gZJo",
-      "key": 64
+      "key": 65
     },
     /*=================================================================================*/
        {
@@ -1713,7 +1730,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=z8VnZbupWuQ",
-      "key": 65
+      "key": 66
     },
     /*=================================================================================*/
              {
@@ -1756,7 +1773,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=vcw98f82LQU",
-      "key": 66
+      "key": 67
     },
     /*=================================================================================*/
                       {
@@ -1770,7 +1787,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CSMiPngo4uE",
-      "key": 67
+      "key": 68
     },
     /*=================================================================================*/
                                {
@@ -1784,10 +1801,10 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=rRin8TdvE1o",
-      "key": 68
+      "key": 69
     },
     /*=================================================================================*/
-                                 {
+    {
       "vids": [
 
       ],
@@ -1798,7 +1815,228 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
-      "key": 69
+      "key": 70
+    },
+    /*=================================================================================*/
+    {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=E1EB8I0u4gM",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=uS73w_Twbbs",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=bapdmRdJe64",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=9RC8_YthIpc",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=PwV0_LQrLUw",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "MrOozer",
+          "link": "https://www.youtube.com/watch?v=aiOQANfJJ40",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Yatagarasu",
+      "author": "incompetent beings [SomeoneNamedToby]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=9AkPotfkSwk",
+      "key": 71
+    },
+    /*=================================================================================*/
+    {
+      "vids": [
+        {
+          "user": "KrNati",
+          "link": "https://www.youtube.com/watch?v=vMEtDl8O6jY",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=Qe5PDipRtOI",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=o1qiaOhK0Ww",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=EaFFOBSh5lY",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "SomeoneNamedToby",
+          "link": "https://www.youtube.com/watch?v=P4BkeO9Dk24",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Sonic Wave Rebirth",
+      "author": "Serponge and FunnyGame [PersonHuman42]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=qS4hRB36j7I",
+      "key": 72
+    },
+    /*=================================================================================*/
+              {
+      "vids": [
+        {
+          "user": "KrNati",
+          "link": "https://www.youtube.com/watch?v=fTAtxJHv-u8",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "SomeoneNamedToby",
+          "link": "https://www.youtube.com/watch?v=Rlcx2qSsiOk",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=o0FelaIX708",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=VbagYLXHbmk",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=cFwPcvkuoQg",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=etMeyMNUqi8",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "yesimhairy",
+          "link": "https://www.youtube.com/watch?v=GPDuU2MuWJM",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Sonic Wave",
+      "author": "Cyclic [redd]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=G0J1QTXrZSY",
+      "key": 73
+    },
+    /*=================================================================================*/
+                        {
+      "vids": [
+        {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=QNqRsAHdW9Y",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=VK1FCZ9ayUg",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Unnerfed Kuzureta",
+      "author": "Teno [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=FAIUMFlbL-E",
+      "key": 74
+    },
+    /*=================================================================================*/
+      {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=PkIq7_cpAsg",
+          "percent": 100,
+          "hz": ""
+        },
+          {
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=uEEbMbezTbg",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=_TkMZ2wp2gs",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=jSIYGwGqm-w",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "KrNati",
+          "link": "https://www.youtube.com/watch?v=_DhG18ZWG4k",
+          "percent": 100,
+          "hz": ""
+        },
+        {
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=enGQY7cnPuo",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Erebus",
+      "author": "Rustam and Ilrell [SomeoneNamedToby]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UCmsILi3oG4",
+      "key": 75
     },
     /*=================================================================================*/
 
