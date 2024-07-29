@@ -141,7 +141,7 @@ const d = {
       "id": 69695386,
       "pass": "Free to Copy",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=EEeejAN-zKg",
+      "verificationVid": "https://youtu.be/EQb7UUFhvX0",
       "key": 7
     },
     /*=================================================================================*/
@@ -399,7 +399,7 @@ const d = {
         },
 
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://i.imgur.com/lwa4B9x.png",
           "percent": 94,
           "hz": ""
@@ -501,7 +501,7 @@ const d = {
       "id": 72055462,
       "pass": "Free to copy",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=Ae9DlVmBBhE",
+      "verificationVid": "https://youtu.be/uR8dVKLsxNM",
       "key": 22
     },
     /*=================================================================================*/
@@ -1013,7 +1013,7 @@ const d = {
           "hz": ""
         },
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=p5-vnXHOy3U",
           "percent": 100,
           "hz": ""
@@ -1087,7 +1087,7 @@ const d = {
     {
       "vids": [
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=rZlxdmDv9Lk",
           "percent": 100,
           "hz": ""
@@ -1130,7 +1130,7 @@ const d = {
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=IiuaD_mO9cs",
+      "verificationVid": "https://youtu.be/ldaSd4GI9pU",
       "key": 45
     },
     /*=================================================================================*/
@@ -1189,7 +1189,7 @@ const d = {
         },
 
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=lf0qNfOGkUg",
           "percent": 100,
           "hz": ""
@@ -1197,7 +1197,7 @@ const d = {
 
       ],
       "name": "CITRA",
-      "author": "Varse [Multiverse]",
+      "author": "Varse [Multiverse]", 
       "more": "none",
       "id": 78376395,
       "pass": "67993",
@@ -1389,7 +1389,7 @@ const d = {
           "hz": ""
         },
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=3JOePeJZMOk",
           "percent": 100,
           "hz": ""
@@ -1438,7 +1438,7 @@ const d = {
           "hz": ""
         },
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=I_L868tG2nc",
           "percent": 100,
           "hz": ""
@@ -1506,7 +1506,7 @@ const d = {
                 "hz": ""
               },
               {
-                "user": "LF",
+                "user": "LF GMD",
                 "link": "https://www.youtube.com/watch?v=CwXNamziRR0",
                 "percent": 100,
                 "hz": ""
@@ -1518,7 +1518,7 @@ const d = {
             "id": 78376395,
             "pass": "67993",
             "percentToQualify": 1,
-            "verificationVid": "https://www.youtube.com/watch?v=zq8KNTzhUUE",
+            "verificationVid": "https://youtu.be/1VH-QjASTBk",
             "key": 60
           },
           /*=================================================================================*/
@@ -1580,7 +1580,7 @@ const d = {
           "hz": ""
         },
          {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=1LymLOqeneg",
           "percent": 100,
           "hz": ""
@@ -1724,7 +1724,7 @@ const d = {
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=z8VnZbupWuQ",
+      "verificationVid": "https://youtu.be/fZfLm7Y6pU0",
       "key": 66
     },
     /*=================================================================================*/
@@ -1915,7 +1915,7 @@ const d = {
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=qS4hRB36j7I",
+      "verificationVid": "https://youtu.be/zMjmvg_1RQI",
       "key": 73
     },
     /*=================================================================================*/
@@ -2020,7 +2020,7 @@ const d = {
           "hz": ""
         },
         {
-          "user": "LF",
+          "user": "LF GMD",
           "link": "https://www.youtube.com/watch?v=DG9zbosSq2A",
           "percent": 100,
           "hz": ""
@@ -2125,6 +2125,82 @@ const d = {
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=UCmsILi3oG4",
       "key": 80
+    },
+    /*=================================================================================*/
+          {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://youtu.be/2VB8CrJTECE",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Friday Vortex",
+      "author": "Cersia [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
+      "key": 81
+    },
+    /*=================================================================================*/
+            {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://youtu.be/2VB8CrJTECE",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Friday Vortex",
+      "author": "Cersia [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
+      "key": 82
+    },
+    /*=================================================================================*/
+            {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://youtu.be/2VB8CrJTECE",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Friday Vortex",
+      "author": "Cersia [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
+      "key": 83
+    },
+    /*=================================================================================*/
+                      {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://youtu.be/2VB8CrJTECE",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Lucid Chaos",
+      "author": "CairoX [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
+      "key": 83
     },
     /*=================================================================================*/
 
