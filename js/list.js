@@ -1667,12 +1667,7 @@ const d = {
     /*=================================================================================*/
                                                  {
       "vids": [
-{
-          "user": "Multiverse",
-          "link": "https://www.youtube.com/watch?v=9eRz37xnJiA",
-          "percent": 100,
-          "hz": ""
-        },
+
   {
           "user": "Multiverse",
           "link": "https://www.youtube.com/watch?v=9eRz37xnJiA",
@@ -1841,7 +1836,7 @@ const d = {
           "hz": ""
         },
         {
-          "user": "PersonHuman42",
+          "user": "KrNati",
           "link": "https://www.youtube.com/watch?v=uS73w_Twbbs",
           "percent": 100,
           "hz": ""
@@ -2046,12 +2041,12 @@ const d = {
 
       ],
       "name": "Sink",
-      "author": "Dorami [Multiverse]",
+      "author": "Awedsy [PersonHuman42]",
       "more": "none",
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "verificationVid": "https://www.youtube.com/watch?v=dqWMks57soU",
       "key": 77
     },
     /*=================================================================================*/
@@ -2060,12 +2055,12 @@ const d = {
 
       ],
       "name": "Golden Club",
-      "author": "Dorami [Multiverse]",
+      "author": "Zenmuron [MrOozer]",
       "more": "none",
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "verificationVid": "https://www.youtube.com/watch?v=2KiBrYtb3k0",
       "key": 78
     },
     /*=================================================================================*/
@@ -2074,12 +2069,12 @@ const d = {
 
       ],
       "name": "Loochiverse",
-      "author": "Dorami [Multiverse]",
+      "author": "Nerhy [redd]",
       "more": "none",
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
+      "verificationVid": "https://www.youtube.com/watch?v=5mcSHomN6lc",
       "key": 79
     },
     /*=================================================================================*/
