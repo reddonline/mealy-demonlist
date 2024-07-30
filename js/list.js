@@ -230,7 +230,12 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-
+    {
+          "user": "MrOozer",
+          "link": "https://i.imgur.com/ZUROmor.png",
+          "percent": 57,
+          "hz": ""
+        },
       ],
       "name": "NETWORK",
       "author": "Agat3 [Tyson]",
@@ -1634,6 +1639,34 @@ const d = {
       "key": 63
     },
     /*=================================================================================*/
+	    {
+      "vids": [
+
+      ],
+      "name": "Macabre",
+      "author": "ZephiroX [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=727HPLPMrFs",
+      "key": 64
+    },
+    /*=================================================================================*/
+		    {
+      "vids": [
+
+      ],
+      "name": "Storming Summit",
+      "author": "Nimbus [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=tCQcpN_WHu4",
+      "key": 65
+    },
+    /*=================================================================================*/
        {
       "vids": [
    {
@@ -1662,7 +1695,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=1NltMm4vJ-k",
-      "key": 64
+      "key": 66
     },
     /*=================================================================================*/
                                                  {
@@ -1694,7 +1727,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=PIK9eQ9gZJo",
-      "key": 65
+      "key": 67
     },
     /*=================================================================================*/
        {
@@ -1725,7 +1758,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://youtu.be/fZfLm7Y6pU0",
-      "key": 66
+      "key": 68
     },
     /*=================================================================================*/
              {
@@ -1768,7 +1801,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=vcw98f82LQU",
-      "key": 67
+      "key": 69
     },
     /*=================================================================================*/
                       {
@@ -1782,7 +1815,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=CSMiPngo4uE",
-      "key": 68
+      "key": 70
     },
     /*=================================================================================*/
                                {
@@ -1796,7 +1829,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=rRin8TdvE1o",
-      "key": 69
+      "key": 71
     },
     /*=================================================================================*/
     {
@@ -1810,7 +1843,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=UWbtlZnjRgE",
-      "key": 70
+      "key": 72
     },
     /*=================================================================================*/
     {
@@ -1824,7 +1857,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=J8N204M6l_w",
-      "key": 71
+      "key": 73
     },
     /*=================================================================================*/
     {
@@ -1873,7 +1906,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=9AkPotfkSwk",
-      "key": 72
+      "key": 74
     },
     /*=================================================================================*/
     {
@@ -1916,7 +1949,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://youtu.be/zMjmvg_1RQI",
-      "key": 73
+      "key": 75
     },
     /*=================================================================================*/
               {
@@ -1971,9 +2004,48 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=G0J1QTXrZSY",
-      "key": 74
+      "key": 76
     },
     /*=================================================================================*/
+				    {
+	"vids": [
+	],
+      "name": "CHROMA FINALE",
+      "author": "Renn241 [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=6gq8We8tQ-U",
+      "key": 77
+    },
+    /*=================================================================================*/
+					    {
+	"vids": [
+	{
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=AQ_0si_8TOs",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "PersonHuman42",
+          "link": "https://youtu.be/5OZnl4tS8XI",
+          "percent": 100,
+          "hz": ""
+        },
+	],
+      "name": "Catalyze",
+      "author": "ZephiroX [Zombay]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=newn0hDepnU",
+      "key": 78
+    },
+    /*=================================================================================*/
+	
                         {
       "vids": [
         {
@@ -1996,7 +2068,21 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=FAIUMFlbL-E",
-      "key": 75
+      "key": 79
+    },
+    /*=================================================================================*/
+	        {
+      "vids": [
+
+      ],
+      "name": "Kuzureta",
+      "author": "Teno [LF GMD]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=nev5looXX2Q",
+      "key": 80
     },
     /*=================================================================================*/
       {
@@ -2033,9 +2119,91 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=RL6deTWNs7w",
-      "key": 76
+      "key": 81
     },
     /*=================================================================================*/
+		    {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=ikOMVNIXeKQ",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=KBeam_BXiso",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=eYLU4fs6Fcg",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Multiverse",
+          "link": "https://www.youtube.com/watch?v=L90VcUxio5I",
+          "percent": 100,
+          "hz": ""
+        },
+      ],
+      "name": "Cybernetic Crescent",
+      "author": "Viprin [SomeoneNamedToby]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=UKvhl6kOw48",
+      "key": 82
+    },
+    /*=================================================================================*/
+			    {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=AYkV5IWvNT8",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=fhpSSULSXmQ",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=x9kYpP_M-Us",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "KrNati",
+          "link": "https://www.youtube.com/watch?v=iHNRIRnmhik",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=FsXqRjnkndA",
+          "percent": 100,
+          "hz": ""
+        },
+
+	],
+      "name": "Generic Wave",
+      "author": "Pennutoh and Enlex [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=-9y6l-ts4UM",
+      "key": 83
+    },
+    /*=================================================================================*/
+
         {
       "vids": [
 
@@ -2047,7 +2215,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=dqWMks57soU",
-      "key": 77
+      "key": 84
     },
     /*=================================================================================*/
         {
@@ -2061,7 +2229,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=2KiBrYtb3k0",
-      "key": 78
+      "key": 85
     },
     /*=================================================================================*/
         {
@@ -2075,7 +2243,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=5mcSHomN6lc",
-      "key": 79
+      "key": 86
     },
     /*=================================================================================*/
       {
@@ -2124,7 +2292,7 @@ const d = {
       "pass": "67993",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=UCmsILi3oG4",
-      "key": 80
+      "key": 87
     },
     /*=================================================================================*/
           {
@@ -2142,67 +2310,228 @@ const d = {
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
-      "key": 81
+      "verificationVid": "https://www.youtube.com/watch?v=FdA2QI2SVc4",
+      "key": 88
     },
     /*=================================================================================*/
-            {
+    {
       "vids": [
         {
-          "user": "PersonHuman42",
-          "link": "https://youtu.be/2VB8CrJTECE",
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=McaKBWNiCCk",
           "percent": 100,
           "hz": ""
         },
-      ],
-      "name": "Friday Vortex",
-      "author": "Cersia [Multiverse]",
-      "more": "none",
-      "id": 78376395,
-      "pass": "67993",
-      "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
-      "key": 82
-    },
-    /*=================================================================================*/
-            {
-      "vids": [
-        {
-          "user": "PersonHuman42",
-          "link": "https://youtu.be/2VB8CrJTECE",
+		{
+          "user": "redd",
+          "link": "https://www.youtube.com/watch?v=ubk1Vd11HIU",
           "percent": 100,
           "hz": ""
         },
-      ],
-      "name": "Friday Vortex",
-      "author": "Cersia [Multiverse]",
-      "more": "none",
-      "id": 78376395,
-      "pass": "67993",
-      "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
-      "key": 83
-    },
-    /*=================================================================================*/
-                      {
-      "vids": [
-        {
-          "user": "PersonHuman42",
-          "link": "https://youtu.be/2VB8CrJTECE",
-          "percent": 100,
-          "hz": ""
-        },
-      ],
+	],
       "name": "Lucid Chaos",
       "author": "CairoX [Multiverse]",
       "more": "none",
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=5pYT-1bAuLo",
-      "key": 83
+      "verificationVid": "https://www.youtube.com/watch?v=nKv3kaZHdmI",
+      "key": 89
     },
     /*=================================================================================*/
+	    {
+      "vids": [
+        {
+          "user": "PersonHuman42",
+          "link": "https://youtu.be/RZM_C60oiJU",
+          "percent": 100,
+          "hz": ""
+        },
+
+	],
+      "name": "Bete Noire",
+      "author": "The Purgatory [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=O6yNz2ATkHk",
+      "key": 90
+    },
+    /*=================================================================================*/
+		    {
+      "vids": [
+        {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=DcgQOx39prA",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=vhuM7ehHj7w",
+          "percent": 100,
+          "hz": ""
+        },
+
+	],
+      "name": "Molten Core",
+      "author": "Poland Mountain [PersonHuman42]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://youtu.be/1wQU_1W51F8",
+      "key": 91
+    },
+    /*=================================================================================*/
+		    {
+	 "vids": [
+	],
+      "name": "Unnerfed MISFIRE",
+      "author": "KrNati [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=QqNlAlNkwno",
+      "key": 92
+    },
+    /*=================================================================================*/
+			    {
+	"vids": [
+	],
+      "name": "LUMINA",
+      "author": "hechie [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=ftaXMKV3ffE",
+      "key": 93
+    },
+    /*=================================================================================*/
+					    {
+	"vids": [
+	],
+      "name": "Unnerfed AKIRA",
+      "author": "Eridani [Multiverse]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=bHEn9ha7whM",
+      "key": 94
+    },
+    /*=================================================================================*/
+				    {
+	"vids": [
+	],
+      "name": "Edge of the Blade",
+      "author": "eiruni [ooraizar]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=yFNxIXJyGjQ",
+      "key": 95
+    },
+    /*=================================================================================*/
+	
+					    {
+	"vids": [
+		{
+          "user": "PersonHuman42",
+          "link": "https://www.youtube.com/watch?v=SA2-8qAMIm0",
+          "percent": 100,
+          "hz": ""
+        },
+	],
+      "name": "xo",
+      "author": "I AM NOT IN LOVE WITH THE CONCEPT [SomeoneNamedToby]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=h1nUj1UrzLA",
+      "key": 96
+    },
+    /*=================================================================================*/
+		
+						    {
+	"vids": [
+
+	],
+      "name": "Ddiamond",
+      "author": "Lfritz [redd]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=ByPGcZEUuNs",
+      "key": 97
+    },
+    /*=================================================================================*/
+	
+						    {
+	"vids": [
+		{
+          "user": "MrOozer",
+          "link": "https://www.youtube.com/watch?v=HUh4fZSe0gg",
+          "percent": 100,
+          "hz": ""
+        },
+	],
+      "name": "Freedom08",
+      "author": "Pennutoh [redd]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=Q8L5a6pq82A",
+      "key": 98
+    },
+    /*=================================================================================*/
+							    {
+	"vids": [
+		{
+          "user": "MrOozer",
+          "link": "https://www.youtube.com/watch?v=JlV7QBwR3_E",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Tyson",
+          "link": "https://www.youtube.com/watch?v=6u3JTyPhQ9k",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "LF GMD",
+          "link": "https://www.youtube.com/watch?v=lrPdhLziEOo",
+          "percent": 100,
+          "hz": ""
+        },
+		{
+          "user": "Multiverse",
+          "link": "https://i.imgur.com/mGkR6WJ.jpeg",
+          "percent": 100,
+          "hz": ""
+        },
+	],
+      "name": "GONER",
+      "author": "Nightning [redd]",
+      "more": "none",
+      "id": 78376395,
+      "pass": "67993",
+      "percentToQualify": 1,
+      "verificationVid": "https://www.youtube.com/watch?v=xKGClb18jmk",
+      "key": 99
+    },
+    /*=================================================================================*/
+
+
+
 
 
 
