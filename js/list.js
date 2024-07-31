@@ -118,33 +118,7 @@ const d = {
       "key": 6
     },
     /*=================================================================================*/
-    {
-      "vids": [
-        {
-          "user": "KrNati",
-          "link": "https://www.youtube.com/watch?v=M5WgSfZCtG4",
-          "percent": 100,
-          "hz": ""
-        },
 
-        {
-          "user": "Zombay",
-          "link": "https://www.youtube.com/watch?v=HGbWGMStIBI",
-          "percent": 100,
-          "hz": ""
-        },
-
-      ],
-      "name": "Oblivion",
-      "author": "benji8080 [PersonHuman42]",
-      "more": "none",
-      "id": 69695386,
-      "pass": "Free to Copy",
-      "percentToQualify": 1,
-      "verificationVid": "https://youtu.be/EQb7UUFhvX0",
-      "key": 7
-    },
-    /*=================================================================================*/
     {
       "vids": [
         {
@@ -191,6 +165,33 @@ const d = {
       "pass": "Free to copy",
       "percentToQualify": 1,
       "verificationVid": "https://www.youtube.com/watch?v=ia6C79_58kQ",
+      "key": 7
+    },
+    /*=================================================================================*/
+	      {
+      "vids": [
+        {
+          "user": "KrNati",
+          "link": "https://www.youtube.com/watch?v=M5WgSfZCtG4",
+          "percent": 100,
+          "hz": ""
+        },
+
+        {
+          "user": "Zombay",
+          "link": "https://www.youtube.com/watch?v=HGbWGMStIBI",
+          "percent": 100,
+          "hz": ""
+        },
+
+      ],
+      "name": "Oblivion",
+      "author": "benji8080 [PersonHuman42]",
+      "more": "none",
+      "id": 69695386,
+      "pass": "Free to Copy",
+      "percentToQualify": 1,
+      "verificationVid": "https://youtu.be/EQb7UUFhvX0",
       "key": 8
     },
     /*=================================================================================*/
