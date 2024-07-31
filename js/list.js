@@ -1122,7 +1122,7 @@ const d = {
         {
           "user": "ILOVEJOSH9000XXXX",
           "link": "https://i.imgur.com/QQl5gOI.png",
-          "percent": 94,
+          "percent": 95,
           "hz": ""
         },
       ],
