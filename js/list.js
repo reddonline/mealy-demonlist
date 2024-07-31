@@ -1572,12 +1572,12 @@ const d = {
         },
       ],
       "name": "Requiem",
-      "author": "OliSW [PersonHuman42]",
+      "author": "Lithifusion [PersonHuman42]",
       "more": "none",
       "id": 78376395,
       "pass": "67993",
       "percentToQualify": 1,
-      "verificationVid": "https://youtu.be/QQGFk9Szs8E",
+      "verificationVid": "https://youtu.be/RPJpvg1P4kY",
       "key": 65
     },
     /*=================================================================================*/
