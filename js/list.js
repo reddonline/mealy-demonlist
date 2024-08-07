@@ -407,14 +407,14 @@ const d = {
         {
           "user": "LF GMD",
           "link": "https://i.imgur.com/lwa4B9x.png",
-          "percent": 94,
+          "percent": 100,
           "hz": ""
         },
 
         {
           "user": "Zombay",
           "link": "https://i.imgur.com/kf4ia3H.png",
-          "percent": 95,
+          "percent": 100,
           "hz": ""
         },
 
@@ -774,7 +774,12 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-
+{
+          "user": "SomeoneNamedToby",
+          "link": "",
+          "percent": 100,
+          "hz": ""
+        },
 
       ],
       "name": "SUPERHATEMEWORLD",
@@ -1059,7 +1064,7 @@ const d = {
       "id": 77671870,
       "pass": "Not copyable",
       "percentToQualify": 1,
-      "verificationVid": "https://www.youtube.com/watch?v=81q0mXrxFrA",
+      "verificationVid": "https://www.youtube.com/watch?v=Zps2ejald5g",
       "key": 46
     },
     /*=================================================================================*/
